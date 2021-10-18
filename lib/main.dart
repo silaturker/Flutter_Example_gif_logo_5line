@@ -187,11 +187,7 @@ class MyStatelessWidget extends StatelessWidget {
             ),
 
 
-            //Container(
-               // margin: const EdgeInsets.fromLTRB(20, 0, 20, 20),
-               // child:
-               // Image.network('https://flutter-examples.com/wp-content/uploads/2019/09/blossom.jpg',
-                //  width: 120, height: 120, fit: BoxFit.contain,)),
+            
             ElevatedButton(
               style: ElevatedButton.styleFrom(
                 shape:RoundedRectangleBorder(
